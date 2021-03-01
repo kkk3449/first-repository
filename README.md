@@ -6,3 +6,4 @@ add new contents
 ![Screenshot from 2021-02-17 22-58-18](https://user-images.githubusercontent.com/60597598/108214655-c1b56380-7173-11eb-8946-1aa7623f6dce.png)
 ![Screenshot from 2021-02-18 22-59-28](https://user-images.githubusercontent.com/60597598/108368013-559f3200-723d-11eb-85e8-173b7be341ed.png)
 ![Screenshot from 2021-02-18 22-59-20](https://user-images.githubusercontent.com/60597598/108368196-83847680-723d-11eb-8d23-a7a8dddd148a.png)
+![epoch500_1](https://user-images.githubusercontent.com/60597598/109521707-ee149c80-7af0-11eb-8808-b31504e16c2f.gif)
